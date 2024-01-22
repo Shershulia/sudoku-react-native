@@ -1,0 +1,27 @@
+{
+    "welcomeText": "Velkommen til sudoku dataspill",
+    "chooseDifficulty" : "Velg vanskelighetsgrad:",
+    "startButton":"Start sudoku-spillet",
+    "or":"eller",
+    "createSudokuButton": "Lag ny Sudoku",
+    "getFromSavedSudoku": "Få fra Saved Sudoku",
+    "sudokuIsPosted": "Sudoku er lagt ut",
+    "clear":"Nullstille",
+    "toMainPage": "Til hoved side",
+    "somethingWentWrong": "Hmmm...Noe gikk galt",
+    "refreshing": "Refreshing",
+    "theNameOfCustomSudoku": "Skriv inn navnet på tilpasset sudoku",
+    "cancelButton":"Avbryt",
+    "chooseSudoku":"Velg sudoku",
+    "noCustom":"Ingen tilpasset sudoku",
+    "loading" : "Laster...",
+    "solvedRight":"Sudoku ble løst riktig",
+    "solvedWrong":"Sudoku er løst feil! Prøv igjen",
+    "mark":"Hvis du vil merke firkant, kan du skrive . eller klikk på den",
+    "check":"Sjekke",
+    "notFound": "Vi kan ikke finne sudoku"
+
+
+
+
+}

@@ -1,0 +1,25 @@
+{
+    "welcomeText": "Welcome to sudoku game",
+    "chooseDifficulty" : "Choose difficulty level:",
+    "startButton":"Start sudoku game",
+    "or":"or",
+    "createSudokuButton": "Create new Sudoku",
+    "getFromSavedSudoku": "Get From Saved Sudoku",
+    "sudokuIsPosted": "Sudoku is posted",
+    "clear":"Clear",
+    "toMainPage": "To main page",
+    "somethingWentWrong": "Hmmm...Something went wrong",
+    "refreshing": "Refreshing",
+    "theNameOfCustomSudoku": "Enter the name of custom sudoku",
+    "cancelButton":"Cancel",
+    "chooseSudoku":"Choose sudoku",
+    "noCustom":"No custom sudoku",
+    "loading" : "Loading...",
+    "solvedRight":"Sudoku was solved right",
+    "solvedWrong":"Sudoku is solved wrong! Try again",
+    "mark":"If you want to mark square, you can type . or click on it",
+    "check":"Check",
+    "notFound": "We cannot find sudoku"
+
+
+}
